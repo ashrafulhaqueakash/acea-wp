@@ -1,5 +1,6 @@
-
-
+.hello-akash{
+     background-color: red;
+}
 @font-face {
     font-family: 'Function';
     src: url('../../fonts/Function Regular.eot');

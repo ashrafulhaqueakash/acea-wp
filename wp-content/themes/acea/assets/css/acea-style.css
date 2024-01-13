@@ -51,7 +51,6 @@ body {
   font-family: 'Inter', sans-serif;
   color: var(--text-color);
   font-weight: 400;
-  background-color: red;
 }
 
 input {
