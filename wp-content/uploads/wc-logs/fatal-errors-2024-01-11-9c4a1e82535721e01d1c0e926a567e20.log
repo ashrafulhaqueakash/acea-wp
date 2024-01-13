@@ -1,0 +1,46 @@
+2024-01-11T07:16:56+00:00 CRITICAL syntax error, unexpected string content "labe", expecting "]" in /home3/coziepil/public_html/.website_ff54d511/wp-content/plugins/acea-addons/widgets/Blog Post/widget.php on line 1620
+
+2024-01-11T12:27:43+00:00 CRITICAL Unclosed '{' on line 77 in /home3/coziepil/public_html/.website_ff54d511/wp-content/plugins/acea-addons/widgets/Services/services.php on line 691
+
+2024-01-11T12:27:48+00:00 CRITICAL Unclosed '[' on line 1618 in /home3/coziepil/public_html/.website_ff54d511/wp-content/plugins/acea-addons/widgets/Services/services.php on line 1620
+
+2024-01-11T12:31:27+00:00 CRITICAL syntax error, unexpected string content "Sho" in /home3/coziepil/public_html/.website_ff54d511/wp-content/plugins/acea-addons/widgets/Blog Post/widget.php on line 397
+
+2024-01-11T13:01:55+00:00 CRITICAL syntax error, unexpected string content "category_color_hover" in /home3/coziepil/public_html/.website_ff54d511/wp-content/plugins/acea-addons/widgets/Blog Post/widget.php on line 1128
+
+2024-01-11T13:14:02+00:00 CRITICAL syntax error, unexpected string content "" in /home3/coziepil/public_html/.website_ff54d511/wp-content/plugins/acea-addons/widgets/Services/services.php on line 544
+
+2024-01-11T13:14:02+00:00 CRITICAL syntax error, unexpected string content "" in /home3/coziepil/public_html/.website_ff54d511/wp-content/plugins/acea-addons/widgets/Services/services.php on line 544
+
+2024-01-11T13:14:09+00:00 CRITICAL Unclosed '(' on line 1733 in /home3/coziepil/public_html/.website_ff54d511/wp-content/plugins/acea-addons/widgets/Services/services.php on line 1738
+
+2024-01-11T13:22:42+00:00 CRITICAL Unclosed '[' on line 1101 in /home3/coziepil/public_html/.website_ff54d511/wp-content/plugins/acea-addons/widgets/Services/services.php on line 1103
+
+2024-01-11T13:29:34+00:00 CRITICAL Unclosed '[' on line 244 in /home3/coziepil/public_html/.website_ff54d511/wp-content/plugins/acea-addons/widgets/Services/services.php on line 248
+
+2024-01-11T13:49:16+00:00 CRITICAL syntax error, unexpected string content "background-color: {{VALUE" in /home3/coziepil/public_html/.website_ff54d511/wp-content/plugins/acea-addons/widgets/Services/services.php on line 1430
+
+2024-01-11T14:04:09+00:00 CRITICAL Unclosed '[' on line 472 in /home3/coziepil/public_html/.website_ff54d511/wp-content/plugins/acea-addons/widgets/Services/services.php on line 473
+
+2024-01-11T14:04:09+00:00 CRITICAL Unclosed '[' on line 472 in /home3/coziepil/public_html/.website_ff54d511/wp-content/plugins/acea-addons/widgets/Services/services.php on line 473
+
+2024-01-11T14:04:14+00:00 CRITICAL Unclosed '(' on line 1245 in /home3/coziepil/public_html/.website_ff54d511/wp-content/plugins/acea-addons/widgets/Services/services.php on line 1246
+
+2024-01-11T14:27:52+00:00 CRITICAL Unclosed '{' on line 83 in /home3/coziepil/public_html/.website_ff54d511/wp-content/plugins/acea-addons/widgets/Services/services.php on line 1126
+
+2024-01-11T14:35:43+00:00 CRITICAL Unclosed '(' on line 1400 in /home3/coziepil/public_html/.website_ff54d511/wp-content/plugins/acea-addons/widgets/Services/services.php on line 1402
+
+2024-01-11T14:43:25+00:00 CRITICAL Unclosed '[' on line 754 in /home3/coziepil/public_html/.website_ff54d511/wp-content/plugins/acea-addons/widgets/Services/services.php on line 756
+
+2024-01-11T14:43:25+00:00 CRITICAL Unclosed '[' on line 754 in /home3/coziepil/public_html/.website_ff54d511/wp-content/plugins/acea-addons/widgets/Services/services.php on line 756
+
+2024-01-11T14:43:27+00:00 CRITICAL Unclosed '[' on line 960 in /home3/coziepil/public_html/.website_ff54d511/wp-content/plugins/acea-addons/widgets/Services/services.php on line 963
+
+2024-01-11T14:43:27+00:00 CRITICAL Unclosed '(' on line 1034 in /home3/coziepil/public_html/.website_ff54d511/wp-content/plugins/acea-addons/widgets/Services/services.php on line 1035
+
+2024-01-11T14:50:24+00:00 CRITICAL syntax error, unexpected string content "", expecting "]" in /home3/coziepil/public_html/.website_ff54d511/wp-content/plugins/acea-addons/widgets/Services/services.php on line 184
+
+2024-01-11T14:50:24+00:00 CRITICAL Unclosed '[' on line 220 in /home3/coziepil/public_html/.website_ff54d511/wp-content/plugins/acea-addons/widgets/Services/services.php on line 222
+
+2024-01-11T14:50:29+00:00 CRITICAL Unclosed '[' on line 890 in /home3/coziepil/public_html/.website_ff54d511/wp-content/plugins/acea-addons/widgets/Services/services.php on line 893
+

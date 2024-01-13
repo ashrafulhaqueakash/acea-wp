@@ -1,0 +1,10 @@
+2024-01-09T10:30:15+00:00 CRITICAL Uncaught Error: Failed opening required '/Volumes/My Files/Local SItes/acea/app/public/wp-content/themes/acea/lib/plugin-update-checker/plugin-update-checker.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in /Volumes/My Files/Local SItes/acea/app/public/wp-content/themes/acea/functions.php:296
+Stack trace:
+#0 /Volumes/My Files/Local SItes/acea/app/public/wp-settings.php(611): include()
+#1 /Volumes/My Files/Local SItes/acea/app/public/wp-config.php(103): require_once('/Volumes/My Fil...')
+#2 /Volumes/My Files/Local SItes/acea/app/public/wp-load.php(50): require_once('/Volumes/My Fil...')
+#3 /Volumes/My Files/Local SItes/acea/app/public/wp-blog-header.php(13): require_once('/Volumes/My Fil...')
+#4 /Volumes/My Files/Local SItes/acea/app/public/index.php(17): require('/Volumes/My Fil...')
+#5 {main}
+  thrown in /Volumes/My Files/Local SItes/acea/app/public/wp-content/themes/acea/functions.php on line 296
+

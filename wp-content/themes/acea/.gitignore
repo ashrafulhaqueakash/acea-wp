@@ -1,0 +1,6 @@
+# Ignore all folders in wp-content
+wp-content/*
+ 
+# But do not ignore these specific folders
+!wp-content/plugin/acea-addons/
+!wp-content/themes/acea/

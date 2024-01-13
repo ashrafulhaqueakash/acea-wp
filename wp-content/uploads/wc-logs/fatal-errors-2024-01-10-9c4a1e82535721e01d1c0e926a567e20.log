@@ -1,0 +1,10 @@
+2024-01-10T07:50:33+00:00 CRITICAL syntax error, unexpected string content "acea_team_mem" in /home3/coziepil/public_html/.website_ff54d511/wp-content/plugins/acea-addons/widgets/TeamMember/widget.php on line 1446
+
+2024-01-10T09:26:12+00:00 CRITICAL Unclosed '{' on line 87 in /home3/coziepil/public_html/.website_ff54d511/wp-content/plugins/acea-addons/widgets/Portfolio/portfolio.php on line 1168
+
+2024-01-10T14:24:43+00:00 CRITICAL Unclosed '[' on line 2606 in /home3/coziepil/public_html/.website_ff54d511/wp-content/plugins/acea-addons/widgets/Blog Post/widget.php on line 2609
+
+2024-01-10T14:24:43+00:00 CRITICAL Unclosed '(' on line 2703 in /home3/coziepil/public_html/.website_ff54d511/wp-content/plugins/acea-addons/widgets/Blog Post/widget.php on line 2705
+
+2024-01-10T14:25:27+00:00 CRITICAL syntax error, unexpected string content "Enab" in /home3/coziepil/public_html/.website_ff54d511/wp-content/plugins/acea-addons/widgets/Blog Post/widget.php on line 107
+

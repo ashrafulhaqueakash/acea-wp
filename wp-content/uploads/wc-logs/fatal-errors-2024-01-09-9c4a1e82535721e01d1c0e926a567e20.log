@@ -1,0 +1,69 @@
+2024-01-09T12:45:33+00:00 CRITICAL Unclosed '[' on line 325 in /home3/coziepil/public_html/.website_ff54d511/wp-content/plugins/acea-addons/widgets/Blog Post/widget.php on line 326
+
+2024-01-09T12:45:33+00:00 CRITICAL Unclosed '(' in /home3/coziepil/public_html/.website_ff54d511/wp-content/plugins/acea-addons/widgets/Blog Post/widget.php on line 395
+
+2024-01-09T12:45:33+00:00 CRITICAL Unclosed '(' in /home3/coziepil/public_html/.website_ff54d511/wp-content/plugins/acea-addons/widgets/Blog Post/widget.php on line 395
+
+2024-01-09T12:45:50+00:00 CRITICAL Unclosed '{' on line 85 in /home3/coziepil/public_html/.website_ff54d511/wp-content/plugins/acea-addons/widgets/Blog Post/widget.php on line 2809
+
+2024-01-09T12:46:07+00:00 CRITICAL Unclosed '(' in /home3/coziepil/public_html/.website_ff54d511/wp-content/plugins/acea-addons/widgets/Blog Post/widget.php on line 395
+
+2024-01-09T12:47:31+00:00 CRITICAL syntax error, unexpected string content "mousedra", expecting "]" in /home3/coziepil/public_html/.website_ff54d511/wp-content/plugins/acea-addons/widgets/Blog Post/widget.php on line 2845
+
+2024-01-09T12:50:38+00:00 CRITICAL Unclosed '[' on line 983 in /home3/coziepil/public_html/.website_ff54d511/wp-content/plugins/acea-addons/widgets/Blog Post/widget.php on line 985
+
+2024-01-09T12:50:46+00:00 CRITICAL Unclosed '[' on line 2389 in /home3/coziepil/public_html/.website_ff54d511/wp-content/plugins/acea-addons/widgets/Blog Post/widget.php on line 2409
+
+2024-01-09T12:57:12+00:00 CRITICAL Unclosed '(' on line 779 in /home3/coziepil/public_html/.website_ff54d511/wp-content/plugins/acea-addons/widgets/Blog Post/widget.php on line 781
+
+2024-01-09T13:01:04+00:00 CRITICAL Unclosed '[' on line 106 in /home3/coziepil/public_html/.website_ff54d511/wp-content/plugins/acea-addons/widgets/Blog Post/widget.php on line 111
+
+2024-01-09T13:01:08+00:00 CRITICAL syntax error, unexpected string content "6" in /home3/coziepil/public_html/.website_ff54d511/wp-content/plugins/acea-addons/widgets/Blog Post/widget.php on line 847
+
+2024-01-09T13:01:08+00:00 CRITICAL syntax error, unexpected string content "6" in /home3/coziepil/public_html/.website_ff54d511/wp-content/plugins/acea-addons/widgets/Blog Post/widget.php on line 847
+
+2024-01-09T13:01:12+00:00 CRITICAL syntax error, unexpected string content "{{WRAPPER}} .post-c", expecting "]" in /home3/coziepil/public_html/.website_ff54d511/wp-content/plugins/acea-addons/widgets/Blog Post/widget.php on line 1340
+
+2024-01-09T13:01:12+00:00 CRITICAL syntax error, unexpected string content "{{WRAPPER}} .post-c", expecting "]" in /home3/coziepil/public_html/.website_ff54d511/wp-content/plugins/acea-addons/widgets/Blog Post/widget.php on line 1340
+
+2024-01-09T13:03:12+00:00 CRITICAL syntax error, unexpected token "&&" in /home3/coziepil/public_html/.website_ff54d511/wp-content/plugins/acea-addons/widgets/Blog Post/widget.php on line 2987
+
+2024-01-09T13:03:12+00:00 CRITICAL syntax error, unexpected token "&&" in /home3/coziepil/public_html/.website_ff54d511/wp-content/plugins/acea-addons/widgets/Blog Post/widget.php on line 2987
+
+2024-01-09T13:03:20+00:00 CRITICAL syntax error, unexpected token "&&" in /home3/coziepil/public_html/.website_ff54d511/wp-content/plugins/acea-addons/widgets/Blog Post/widget.php on line 2987
+
+2024-01-09T13:05:01+00:00 CRITICAL syntax error, unexpected token ":" in /home3/coziepil/public_html/.website_ff54d511/wp-content/plugins/acea-addons/widgets/Blog Post/widget.php on line 2988
+
+2024-01-09T13:05:19+00:00 CRITICAL syntax error, unexpected token ":" in /home3/coziepil/public_html/.website_ff54d511/wp-content/plugins/acea-addons/widgets/Blog Post/widget.php on line 2988
+
+2024-01-09T13:05:22+00:00 CRITICAL Unclosed '[' on line 106 in /home3/coziepil/public_html/.website_ff54d511/wp-content/plugins/acea-addons/widgets/Blog Post/widget.php on line 111
+
+2024-01-09T13:05:22+00:00 CRITICAL Unclosed '[' on line 106 in /home3/coziepil/public_html/.website_ff54d511/wp-content/plugins/acea-addons/widgets/Blog Post/widget.php on line 111
+
+2024-01-09T13:05:22+00:00 CRITICAL Unclosed '[' on line 106 in /home3/coziepil/public_html/.website_ff54d511/wp-content/plugins/acea-addons/widgets/Blog Post/widget.php on line 111
+
+2024-01-09T13:26:36+00:00 CRITICAL syntax error, unexpected string content "acea-addo", expecting ")" in /home3/coziepil/public_html/.website_ff54d511/wp-content/plugins/acea-addons/widgets/Blog Post/widget.php on line 710
+
+2024-01-09T13:26:45+00:00 CRITICAL Unclosed '[' on line 2550 in /home3/coziepil/public_html/.website_ff54d511/wp-content/plugins/acea-addons/widgets/Blog Post/widget.php on line 2551
+
+2024-01-09T13:30:32+00:00 CRITICAL Unclosed '(' on line 2074 in /home3/coziepil/public_html/.website_ff54d511/wp-content/plugins/acea-addons/widgets/Blog Post/widget.php on line 2084
+
+2024-01-09T17:23:56+00:00 CRITICAL Uncaught Error: [] operator not supported for strings in /home3/coziepil/public_html/.website_ff54d511/wp-content/plugins/elementor/includes/managers/icons.php:292
+Stack trace:
+#0 /home3/coziepil/public_html/.website_ff54d511/wp-content/plugins/elementor/includes/managers/icons.php(326): Elementor\Icons_Manager::get_font_icon_svg(Array, Array)
+#1 /home3/coziepil/public_html/.website_ff54d511/wp-content/plugins/elementor/includes/managers/icons.php(75): Elementor\Icons_Manager::render_font_icon(Array, Array, 'i')
+#2 /home3/coziepil/public_html/.website_ff54d511/wp-content/plugins/elementor/includes/managers/icons.php(363): Elementor\Icons_Manager::get_icon_html(Array, Array, 'i')
+#3 /home3/coziepil/public_html/.website_ff54d511/wp-content/plugins/acea-addons/widgets/TestimonialV2/widget.php(1872): Elementor\Icons_Manager::render_icon(Array, Array)
+#4 /home3/coziepil/public_html/.website_ff54d511/wp-content/plugins/elementor/includes/base/controls-stack.php(2297): Acea_TestimonailV2_Loop->render()
+#5 /home3/coziepil/public_html/.website_ff54d511/wp-content/plugins/elementor/includes/base/widget-base.php(614): Elementor\Controls_Stack->render_by_mode()
+#6 /home3/coziepil/public_html/.website_ff54d511/wp-content/plugins/elementor/core/base/document.php(328): Elementor\Widget_Base->render_content()
+#7 /home3/coziepil/public_html/.website_ff54d511/wp-content/plugins/elementor/includes/managers/widgets.php(459): Elementor\Core\Base\Document->render_element(Array)
+#8 [internal function]: Elementor\Widgets_Manager->ajax_render_widget(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#9 /home3/coziepil/public_html/.website_ff54d511/wp-content/plugins/elementor/core/common/modules/ajax/module.php(176): call_user_func(Array, Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#10 /home3/coziepil/public_html/.website_ff54d511/wp-includes/class-wp-hook.php(324): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request('')
+#11 /home3/coziepil/public_html/.website_ff54d511/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#12 /home3/coziepil/public_html/.website_ff54d511/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#13 /home3/coziepil/public_html/.website_ff54d511/wp-admin/admin-ajax.php(188): do_action('wp_ajax_element...')
+#14 {main}
+  thrown in /home3/coziepil/public_html/.website_ff54d511/wp-content/plugins/elementor/includes/managers/icons.php on line 292
+

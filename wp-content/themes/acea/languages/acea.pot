@@ -1,0 +1,534 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Acea\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-10-16 09:39+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.2; wp-6.0.2\n"
+"X-Domain: acea"
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:54
+msgid " "
+msgstr ""
+
+#: inc/class-acea-breadcrumb.php:64
+msgid " Current job openings"
+msgstr ""
+
+#: comments.php:80 comments.php:122
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: inc/class-acea-breadcrumb.php:75
+msgid "404"
+msgstr ""
+
+#: inc/template-functions.php:50 inc/template-functions.php:62
+msgid "Add widgets here."
+msgstr ""
+
+#: inc/demo-setup.php:18 inc/demo-setup.php:28 inc/demo-setup.php:38
+#: inc/demo-setup.php:49 inc/demo-setup.php:60 inc/demo-setup.php:71
+#: inc/demo-setup.php:83 inc/demo-setup.php:94 inc/demo-setup.php:105
+#: inc/demo-setup.php:116 inc/demo-setup.php:127 inc/demo-setup.php:138
+#: inc/demo-setup.php:149 inc/demo-setup.php:160 inc/demo-setup.php:171
+#: inc/demo-setup.php:182 inc/demo-setup.php:193 inc/demo-setup.php:204
+#: inc/demo-setup.php:215 inc/demo-setup.php:226 inc/demo-setup.php:237
+#: inc/demo-setup.php:248 inc/demo-setup.php:259 inc/demo-setup.php:270
+#: inc/demo-setup.php:281 inc/demo-setup.php:292 inc/demo-setup.php:303
+#: inc/demo-setup.php:314 inc/demo-setup.php:325 inc/demo-setup.php:336
+#: inc/demo-setup.php:347 inc/demo-setup.php:358 inc/demo-setup.php:369
+#: inc/demo-setup.php:380 inc/demo-setup.php:391 inc/demo-setup.php:402
+#: inc/demo-setup.php:415 inc/demo-setup.php:425 inc/demo-setup.php:436
+#: inc/demo-setup.php:447 inc/demo-setup.php:458 inc/demo-setup.php:469
+#: inc/demo-setup.php:480 inc/demo-setup.php:491 inc/demo-setup.php:502
+#: inc/demo-setup.php:513 inc/demo-setup.php:524 inc/demo-setup.php:535
+#: inc/demo-setup.php:546 inc/demo-setup.php:557 inc/demo-setup.php:568
+#: inc/demo-setup.php:579 inc/demo-setup.php:590 inc/demo-setup.php:601
+#: inc/demo-setup.php:612 inc/demo-setup.php:623 inc/demo-setup.php:634
+#: inc/demo-setup.php:645 inc/demo-setup.php:656 inc/demo-setup.php:667
+#: inc/demo-setup.php:678 inc/demo-setup.php:689 inc/demo-setup.php:700
+#: inc/demo-setup.php:711 inc/demo-setup.php:722 inc/demo-setup.php:733
+#: inc/demo-setup.php:744 inc/demo-setup.php:755 inc/demo-setup.php:766
+#: inc/demo-setup.php:777 inc/demo-setup.php:788 inc/demo-setup.php:799
+#: inc/demo-setup.php:810 inc/demo-setup.php:821 inc/demo-setup.php:832
+#: inc/demo-setup.php:843
+msgid "After you import this demo, you will have to setup the nav menu."
+msgstr ""
+
+#: inc/class-acea-breadcrumb.php:85
+#, php-format
+msgid "Archive by Category \"%s\""
+msgstr ""
+
+#: inc/customizer/acea-layout-panel.php:64
+msgid "Archive Sidebars"
+msgstr ""
+
+#: inc/customizer/acea-layout-panel.php:41
+msgid "Archive/Blog Settings"
+msgstr ""
+
+#: inc/class-acea-breadcrumb.php:88
+#, php-format
+msgid "Articles Posted by %s"
+msgstr ""
+
+#: functions.php:126
+msgid "aztec"
+msgstr ""
+
+#: inc/template-functions.php:182
+msgid "Back"
+msgstr ""
+
+#: inc/customizer/acea-general-panel.php:93
+#: inc/customizer/acea-customizer-sanitize.php:28
+msgid "Boxed Layout"
+msgstr ""
+
+#: comments.php:81 comments.php:123
+msgid "Cancel Reply"
+msgstr ""
+
+#: inc/class-acea-breadcrumb.php:62
+msgid "Case Study"
+msgstr ""
+
+#: inc/customizer/acea-layout-panel.php:331
+msgid "Category"
+msgstr ""
+
+#: inc/customizer/acea-general-panel.php:70
+msgid "Choose a site to display your website more effectively."
+msgstr ""
+
+#: inc/customizer/acea-header-panel.php:39
+msgid "Choose Header Background Color."
+msgstr ""
+
+#: inc/customizer/acea-layout-panel.php:65
+#: inc/customizer/acea-layout-panel.php:149
+#: inc/customizer/acea-layout-panel.php:230
+msgid "Choose sidebar from available layouts"
+msgstr ""
+
+#: comments.php:90 comments.php:131 comments.php:131
+msgid "Comment"
+msgstr ""
+
+#: inc/class-acea-breadcrumb.php:91
+#, php-format
+msgid "Comment Page %s"
+msgstr ""
+
+#: comments.php:42
+msgid "Comments are closed."
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: template-parts/content-page.php:44 template-parts/single/post.php:22
+#: template-parts/single/style-one.php:34
+#: template-parts/single/style-two.php:45
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: inc/customizer/acea-options.php:14
+msgid "Control Custom Posts"
+msgstr ""
+
+#: functions.php:121
+msgid "coral red"
+msgstr ""
+
+#: inc/customizer/acea-layout-panel.php:206
+msgid "Default Style"
+msgstr ""
+
+#: functions.php:136
+msgid "dove gray"
+msgstr ""
+
+#: comments.php:61 comments.php:103 comments.php:103
+msgid "Enter email address"
+msgstr ""
+
+#: comments.php:56
+msgid "Enter Name"
+msgstr ""
+
+#: inc/customizer/acea-layout-panel.php:104
+msgid "Enter read more button text for archive page."
+msgstr ""
+
+#: inc/class-acea-breadcrumb.php:89
+msgid "Error 404"
+msgstr ""
+
+#. Author of the theme
+msgid "Coderlift"
+msgstr ""
+
+#: inc/template-functions.php:60
+msgid "Footer Widget Area"
+msgstr ""
+
+#. Name of the template
+msgid "Full Template (without breadcrumb)"
+msgstr ""
+
+#. Name of the template
+msgid "Full Width (without sidebar)"
+msgstr ""
+
+#: inc/customizer/acea-general-panel.php:92
+msgid "FullWidth Layout"
+msgstr ""
+
+#: inc/customizer/acea-customizer-sanitize.php:27
+msgid "Fullwidth Layout"
+msgstr ""
+
+#: inc/customizer/acea-general-panel.php:55
+msgid "General Settings"
+msgstr ""
+
+#: inc/customizer/acea-header-panel.php:38
+#: inc/customizer/acea-header-panel.php:59
+#: inc/customizer/acea-general-panel.php:38
+msgid "Header Background Color"
+msgstr ""
+
+#: inc/customizer/acea-header-panel.php:27
+msgid "Header Background Image"
+msgstr ""
+
+#: inc/customizer/acea-header-panel.php:22
+msgid "Header Settings"
+msgstr ""
+
+#: inc/customizer/acea-layout-panel.php:275
+#: inc/customizer/acea-customizer-sanitize.php:45
+msgid "Hide"
+msgstr ""
+
+#: inc/class-acea-breadcrumb.php:84
+msgid "Home"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://coderliftbd.com"
+msgstr ""
+
+#. URI of the theme
+msgid "https://coderliftbd.com/demos/wp/acea/"
+msgstr ""
+
+#: inc/template-functions.php:230
+msgctxt "Inter font: on or off"
+msgid "on"
+msgstr ""
+
+#: template-parts/content-none.php:36
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: inc/customizer/acea-options.php:41
+msgid "Job"
+msgstr ""
+
+#: searchform.php:14
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: inc/customizer/acea-layout-panel.php:29
+msgid "Layout Settings"
+msgstr ""
+
+#: comments.php:76 comments.php:118
+msgid "Leave a reply:"
+msgstr ""
+
+#: inc/customizer/acea-layout-panel.php:69
+#: inc/customizer/acea-layout-panel.php:153
+#: inc/customizer/acea-layout-panel.php:234
+msgid "Left Sidebar"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:56
+msgctxt "list item separator"
+msgid " "
+msgstr ""
+
+#: functions.php:56
+msgid "Main Menu"
+msgstr ""
+
+#: functions.php:141
+msgid "manatee"
+msgstr ""
+
+#: inc/hooks/general-hooks.php:99
+msgid "Menu"
+msgstr ""
+
+#: template-parts/headers/header.php:26
+msgid "menu"
+msgstr ""
+
+#: inc/template-functions.php:177
+msgid "More"
+msgstr ""
+
+#: single.php:33
+msgid "Next post:"
+msgstr ""
+
+#: inc/customizer/acea-layout-panel.php:77
+#: inc/customizer/acea-layout-panel.php:161
+#: inc/customizer/acea-layout-panel.php:242
+msgid "No Sidebar"
+msgstr ""
+
+#: template-parts/content-none.php:12
+msgid "Nothing Found"
+msgstr ""
+
+#: inc/class-acea-breadcrumb.php:60
+msgid "Our Blog"
+msgstr ""
+
+#: inc/class-acea-breadcrumb.php:90
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: inc/customizer/acea-layout-panel.php:125
+msgid "Page Settings"
+msgstr ""
+
+#: inc/customizer/acea-layout-panel.php:148
+msgid "Page Sidebars"
+msgstr ""
+
+#: template-parts/content-page.php:57 template-parts/single/post.php:35
+#: template-parts/single/style-one.php:47
+#: template-parts/single/style-two.php:58
+msgid "Pages:"
+msgstr ""
+
+#: searchform.php:14
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr ""
+
+#: comments.php:82 comments.php:83 comments.php:124 comments.php:125
+msgid "Post Comment"
+msgstr ""
+
+#: inc/customizer/acea-layout-panel.php:229
+msgid "Post Sidebars"
+msgstr ""
+
+#. 1: list of categories.
+#: inc/template-tags.php:59
+msgid "Posted in"
+msgstr ""
+
+#: inc/class-acea-breadcrumb.php:87
+#, php-format
+msgid "Posts Tagged \"%s\""
+msgstr ""
+
+#: single.php:32
+msgid "Previous post:"
+msgstr ""
+
+#: inc/template-tags.php:42 inc/customizer/acea-layout-panel.php:94
+msgid "Read More"
+msgstr ""
+
+#: inc/customizer/acea-layout-panel.php:103
+msgid "Read More Text"
+msgstr ""
+
+#. 1: link to WP admin new post page.
+#: template-parts/content-none.php:20
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: inc/customizer/acea-layout-panel.php:270
+msgid "Related Post Option"
+msgstr ""
+
+#: inc/customizer/acea-layout-panel.php:299
+msgid "Related Post Section Title"
+msgstr ""
+
+#: inc/customizer/acea-layout-panel.php:290 inc/hooks/single-hooks.php:25
+msgid "Related Posts"
+msgstr ""
+
+#: inc/customizer/acea-layout-panel.php:73
+#: inc/customizer/acea-layout-panel.php:157
+#: inc/customizer/acea-layout-panel.php:238
+msgid "Right Sidebar"
+msgstr ""
+
+#. Name of the theme
+msgid "Acea"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Acea is a smart &amp; dynamic blog theme for personal use. Fully responsive "
+"design displays beautifully across desktop, mobile, and all devices. Easy "
+"installation allows you to start post blogs immediately after the activation."
+msgstr ""
+
+#: inc/customizer/acea-options.php:8
+msgid "Acea Options"
+msgstr ""
+
+#: searchform.php:13
+msgid "Search for:"
+msgstr ""
+
+#: inc/class-acea-breadcrumb.php:86
+#, php-format
+msgid "Search Results for \"%s\" Query"
+msgstr ""
+
+#: inc/class-acea-breadcrumb.php:73
+msgid "Search results for: "
+msgstr ""
+
+#: inc/customizer/acea-layout-panel.php:352
+msgid "Select Comment Style"
+msgstr ""
+
+#: inc/customizer/acea-layout-panel.php:327
+msgid "Select Related Post Type"
+msgstr ""
+
+#: inc/customizer/acea-layout-panel.php:199
+msgid "Select Single Post Style"
+msgstr ""
+
+#: inc/customizer/acea-layout-panel.php:329
+msgid "Select whish taxonomy you want to fetch related post"
+msgstr ""
+
+#: inc/customizer/acea-options.php:28
+msgid "Service"
+msgstr ""
+
+#: functions.php:116
+msgid "shark"
+msgstr ""
+
+#: inc/customizer/acea-layout-panel.php:274
+#: inc/customizer/acea-customizer-sanitize.php:44
+msgid "Show"
+msgstr ""
+
+#: inc/customizer/acea-layout-panel.php:271
+msgid "Show/Hide option for related posts section at single post page."
+msgstr ""
+
+#: inc/template-functions.php:48
+msgid "Sidebar"
+msgstr ""
+
+#: inc/customizer/acea-layout-panel.php:178
+msgid "Single Post Settings"
+msgstr ""
+
+#: inc/customizer/acea-general-panel.php:89
+msgid "Site Layout"
+msgstr ""
+
+#: inc/hooks/general-hooks.php:16
+msgid "Skip to content"
+msgstr ""
+
+#: template-parts/content-none.php:31
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: inc/hooks/single-hooks.php:79
+msgid "Sorry, no similar posts found."
+msgstr ""
+
+#: template-parts/content.php:25
+msgid "Sticky"
+msgstr ""
+
+#: inc/customizer/acea-layout-panel.php:203
+#: inc/customizer/acea-layout-panel.php:356
+msgid "Style One"
+msgstr ""
+
+#: inc/customizer/acea-layout-panel.php:205
+msgid "Style Three"
+msgstr ""
+
+#: inc/customizer/acea-layout-panel.php:204
+#: inc/customizer/acea-layout-panel.php:357
+msgid "Style Two"
+msgstr ""
+
+#: comments.php:66 comments.php:108 comments.php:108
+msgid "Subject"
+msgstr ""
+
+#: searchform.php:16
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: inc/customizer/acea-layout-panel.php:332
+msgid "Tag"
+msgstr ""
+
+#. 1: list of tags.
+#: inc/template-tags.php:62
+msgid "Tagged"
+msgstr ""
+
+#: inc/hooks/general-hooks.php:114
+msgid "Top Menu"
+msgstr ""
+
+#: functions.php:131
+msgid "very light gray"
+msgstr ""
+
+#: inc/customizer/acea-general-panel.php:69
+msgid "Website Layout"
+msgstr ""
+
+#: inc/customizer/acea-layout-panel.php:201
+#: inc/customizer/acea-layout-panel.php:354
+msgid "which style do you want to show the single post"
+msgstr ""

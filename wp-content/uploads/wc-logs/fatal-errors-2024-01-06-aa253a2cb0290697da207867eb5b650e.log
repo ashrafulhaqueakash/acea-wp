@@ -1,0 +1,60 @@
+2024-01-06T08:46:12+00:00 CRITICAL Uncaught Error: Failed opening required '/Volumes/My Files/Local SItes/acea/app/public/wp-content/plugins/acea-addons/inc/Classes/Acea_Nav_Walker.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in /Volumes/My Files/Local SItes/acea/app/public/wp-content/plugins/acea-addons/acea-addons.php:42
+Stack trace:
+#0 /Volumes/My Files/Local SItes/acea/app/public/wp-admin/includes/plugin.php(2318): include_once()
+#1 /Volumes/My Files/Local SItes/acea/app/public/wp-admin/includes/plugin.php(663): plugin_sandbox_scrape('acea-addons/ace...')
+#2 /Volumes/My Files/Local SItes/acea/app/public/wp-content/themes/acea/inc/plugins/class-tgm-plugin-activation.php(1077): activate_plugin('acea-addons/ace...')
+#3 /Volumes/My Files/Local SItes/acea/app/public/wp-content/themes/acea/inc/plugins/class-tgm-plugin-activation.php(944): TGM_Plugin_Activation->activate_single_plugin('acea-addons/ace...', 'acea-addons')
+#4 /Volumes/My Files/Local SItes/acea/app/public/wp-content/themes/acea/inc/plugins/class-tgm-plugin-activation.php(761): TGM_Plugin_Activation->do_plugin_install()
+#5 /Volumes/My Files/Local SItes/acea/app/public/wp-includes/class-wp-hook.php(324): TGM_Plugin_Activation->install_plugins_page('')
+#6 /Volumes/My Files/Local SItes/acea/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#7 /Volumes/My Files/Local SItes/acea/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#8 /Volumes/My Files/Local SItes/acea/app/public/wp-admin/admin.php(259): do_action('appearance_page...')
+#9 /Volumes/My Files/Local SItes/acea/app/public/wp-admin/themes.php(10): require_once('/Volumes/My Fil...')
+#10 {main}
+  thrown in /Volumes/My Files/Local SItes/acea/app/public/wp-content/plugins/acea-addons/acea-addons.php on line 42
+
+2024-01-06T08:49:44+00:00 CRITICAL Uncaught Error: Failed opening required '/Volumes/My Files/Local SItes/acea/app/public/wp-content/plugins/acea-addons/inc/Classes/Acea_Nav_Walker.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in /Volumes/My Files/Local SItes/acea/app/public/wp-content/plugins/acea-addons/acea-addons.php:42
+Stack trace:
+#0 /Volumes/My Files/Local SItes/acea/app/public/wp-admin/includes/plugin.php(2318): include_once()
+#1 /Volumes/My Files/Local SItes/acea/app/public/wp-admin/includes/plugin.php(663): plugin_sandbox_scrape('acea-addons/ace...')
+#2 /Volumes/My Files/Local SItes/acea/app/public/wp-content/themes/acea/inc/plugins/class-tgm-plugin-activation.php(1077): activate_plugin('acea-addons/ace...')
+#3 /Volumes/My Files/Local SItes/acea/app/public/wp-content/themes/acea/inc/plugins/class-tgm-plugin-activation.php(944): TGM_Plugin_Activation->activate_single_plugin('acea-addons/ace...', 'acea-addons')
+#4 /Volumes/My Files/Local SItes/acea/app/public/wp-content/themes/acea/inc/plugins/class-tgm-plugin-activation.php(761): TGM_Plugin_Activation->do_plugin_install()
+#5 /Volumes/My Files/Local SItes/acea/app/public/wp-includes/class-wp-hook.php(324): TGM_Plugin_Activation->install_plugins_page('')
+#6 /Volumes/My Files/Local SItes/acea/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#7 /Volumes/My Files/Local SItes/acea/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#8 /Volumes/My Files/Local SItes/acea/app/public/wp-admin/admin.php(259): do_action('appearance_page...')
+#9 /Volumes/My Files/Local SItes/acea/app/public/wp-admin/themes.php(10): require_once('/Volumes/My Fil...')
+#10 {main}
+  thrown in /Volumes/My Files/Local SItes/acea/app/public/wp-content/plugins/acea-addons/acea-addons.php on line 42
+
+2024-01-06T08:50:23+00:00 CRITICAL Uncaught Error: Failed opening required '/Volumes/My Files/Local SItes/acea/app/public/wp-content/plugins/acea-addons/inc/widgets/class-ace-aabout.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in /Volumes/My Files/Local SItes/acea/app/public/wp-content/plugins/acea-addons/acea-addons.php:51
+Stack trace:
+#0 /Volumes/My Files/Local SItes/acea/app/public/wp-admin/includes/plugin.php(2318): include_once()
+#1 /Volumes/My Files/Local SItes/acea/app/public/wp-admin/includes/plugin.php(663): plugin_sandbox_scrape('acea-addons/ace...')
+#2 /Volumes/My Files/Local SItes/acea/app/public/wp-content/themes/acea/inc/plugins/class-tgm-plugin-activation.php(1077): activate_plugin('acea-addons/ace...')
+#3 /Volumes/My Files/Local SItes/acea/app/public/wp-content/themes/acea/inc/plugins/class-tgm-plugin-activation.php(944): TGM_Plugin_Activation->activate_single_plugin('acea-addons/ace...', 'acea-addons')
+#4 /Volumes/My Files/Local SItes/acea/app/public/wp-content/themes/acea/inc/plugins/class-tgm-plugin-activation.php(761): TGM_Plugin_Activation->do_plugin_install()
+#5 /Volumes/My Files/Local SItes/acea/app/public/wp-includes/class-wp-hook.php(324): TGM_Plugin_Activation->install_plugins_page('')
+#6 /Volumes/My Files/Local SItes/acea/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#7 /Volumes/My Files/Local SItes/acea/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#8 /Volumes/My Files/Local SItes/acea/app/public/wp-admin/admin.php(259): do_action('appearance_page...')
+#9 /Volumes/My Files/Local SItes/acea/app/public/wp-admin/themes.php(10): require_once('/Volumes/My Fil...')
+#10 {main}
+  thrown in /Volumes/My Files/Local SItes/acea/app/public/wp-content/plugins/acea-addons/acea-addons.php on line 51
+
+2024-01-06T08:51:49+00:00 CRITICAL Uncaught Error: Failed opening required '/Volumes/My Files/Local SItes/acea/app/public/wp-content/plugins/acea-addons/inc/widgets/class-ace-aabout.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in /Volumes/My Files/Local SItes/acea/app/public/wp-content/plugins/acea-addons/acea-addons.php:51
+Stack trace:
+#0 /Volumes/My Files/Local SItes/acea/app/public/wp-admin/includes/plugin.php(2318): include_once()
+#1 /Volumes/My Files/Local SItes/acea/app/public/wp-admin/includes/plugin.php(663): plugin_sandbox_scrape('acea-addons/ace...')
+#2 /Volumes/My Files/Local SItes/acea/app/public/wp-content/themes/acea/inc/plugins/class-tgm-plugin-activation.php(1077): activate_plugin('acea-addons/ace...')
+#3 /Volumes/My Files/Local SItes/acea/app/public/wp-content/themes/acea/inc/plugins/class-tgm-plugin-activation.php(944): TGM_Plugin_Activation->activate_single_plugin('acea-addons/ace...', 'acea-addons')
+#4 /Volumes/My Files/Local SItes/acea/app/public/wp-content/themes/acea/inc/plugins/class-tgm-plugin-activation.php(761): TGM_Plugin_Activation->do_plugin_install()
+#5 /Volumes/My Files/Local SItes/acea/app/public/wp-includes/class-wp-hook.php(324): TGM_Plugin_Activation->install_plugins_page('')
+#6 /Volumes/My Files/Local SItes/acea/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#7 /Volumes/My Files/Local SItes/acea/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#8 /Volumes/My Files/Local SItes/acea/app/public/wp-admin/admin.php(259): do_action('appearance_page...')
+#9 /Volumes/My Files/Local SItes/acea/app/public/wp-admin/themes.php(10): require_once('/Volumes/My Fil...')
+#10 {main}
+  thrown in /Volumes/My Files/Local SItes/acea/app/public/wp-content/plugins/acea-addons/acea-addons.php on line 51
+

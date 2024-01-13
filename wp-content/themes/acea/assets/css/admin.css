@@ -1,0 +1,13 @@
+.meta-box-sortables select {
+    width: 100%;
+}
+
+.wp-core-ui select[multiple] {
+    height: 250px;
+    padding: 15px;
+}
+.acea_select_pages option {
+    margin-bottom: 8px;
+    font-size: 14px;
+    font-weight: 500;
+}

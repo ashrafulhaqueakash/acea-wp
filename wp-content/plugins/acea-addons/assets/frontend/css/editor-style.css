@@ -1,0 +1,50 @@
+
+.acea-copy-data {
+
+    position: absolute;
+
+    top: 50%;
+
+    right: 2px;
+
+    padding: 15px 15px 15px 20px;
+
+    display: inline-block;
+
+    background: #ff6c4b;
+
+    color: #fff;
+
+    border-radius: 30px 0 0 30px;
+
+    font-weight: 700;
+
+    transition: 0.4s;
+
+    font-size: 18px;
+
+    display: none;
+
+}
+
+
+
+.acea-copy-data:hover {
+
+    background-color: #1972F5;
+
+}
+
+.elementor-section-wrap>.elementor-section:hover .acea-copy-data{
+
+    display: block;
+
+}
+
+.acea-copy-data:focus {
+
+    outline: none;
+
+    border: none;
+
+}
